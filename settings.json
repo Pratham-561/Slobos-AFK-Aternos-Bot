@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "ServerBot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ServerBot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "FOLK_VALLEY00.aternos.me",
@@ -13,14 +13,14 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -51,
+    "y": 67,
+    "z": 52
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
